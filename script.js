@@ -7,10 +7,10 @@ const catIcon = document.getElementById("catIcon");
 
 const messages = [
   "KHÔNG",
-  "Bạn chắc chứ?",
+  "Em chắc chứ?",
   "Nghĩ lại đi mà",
   "Không được chọn cái này",
-  "Mình sẽ buồn lắm đó",
+  "Anh sẽ buồn lắm đó",
   "Không đượcccc"
 ];
 
